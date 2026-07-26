@@ -60,4 +60,3 @@
 - 📧 twinkle141106@gmail.com
 - 💼 [linkedin.com/in/twinkle14](https://linkedin.com/in/twinkle14)
 
-<p align="center"><i>Currently prepping SafarSaathi for internship season — feel free to check it out!</i></p>
