@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/30384524/README.md)
 <h1 align="center">Hi, I'm Twinkle</h1>
-<h3 align="center">B.Tech ECE (with AI), IGDTUW '28</h3>
+<h3 align="center">B.Tech ECE-AI, IGDTUW '28</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/twinkle14"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
