@@ -19,12 +19,6 @@
 - Actively looking for **Summer/Winter 2027 SDE internships**
 
 <br>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Twinkleigdtuw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Twinkleigdtuw&theme=tokyonight&hide_border=true" />
-</div>
-
 ---
 
 ### 🛠️ Tech Stack
