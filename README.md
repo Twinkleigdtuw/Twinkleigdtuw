@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/30384524/README.md)
-<h1 align="center">Hi, I'm Twinkle 👋</h1>
+<h1 align="center">Hi, I'm Twinkle</h1>
 <h3 align="center">B.Tech ECE (with AI), IGDTUW '28</h3>
 
 <p align="center">
